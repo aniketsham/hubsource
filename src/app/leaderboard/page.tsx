@@ -214,8 +214,7 @@ export default function LeaderboardPage() {
               Leaderboard
             </h1>
             <p className="text-[10px] font-black uppercase tracking-widest text-foreground/50 mt-1">
-              Top contributors ranked by score — submissions × 5 + likes × 3 +
-              saves
+              Top contributors ranked by score
             </p>
           </div>
         </div>
