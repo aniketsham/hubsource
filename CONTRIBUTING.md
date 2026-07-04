@@ -12,7 +12,7 @@ Please be respectful and constructive in all interactions with other contributor
 
 ### Reporting Bugs
 
-Before creating bug reports, please check the [issue list](https://github.com/yourusername/hubsource/issues) as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible:
+Before creating bug reports, please check the [issue list](https://github.com/aniketsham/hubsource/issues) as you might find out that you don't need to create one. When you are creating a bug report, please include as many details as possible:
 
 - **Use a clear and descriptive title**
 - **Describe the exact steps which reproduce the problem**
@@ -24,7 +24,7 @@ Before creating bug reports, please check the [issue list](https://github.com/yo
 
 ### Suggesting Enhancements
 
-Enhancement suggestions are tracked as [GitHub issues](https://github.com/yourusername/hubsource/issues). When creating an enhancement suggestion, please include:
+Enhancement suggestions are tracked as [GitHub issues](https://github.com/aniketsham/hubsource/issues). When creating an enhancement suggestion, please include:
 
 - **Use a clear and descriptive title**
 - **Provide a step-by-step description of the suggested enhancement**
@@ -46,7 +46,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/yourus
 1. **Fork and clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/hubsource.git
+   git clone https://github.com/aniketsham/hubsource.git
    cd hubsource
    ```
 
